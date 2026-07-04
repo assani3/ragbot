@@ -1,0 +1,53 @@
+### About Assani
+Assani is a Software Engineer based in Pretoria, South Africa. He holds a BSc IT
+(Software Engineering) from Eduvos, graduated May 2026, and is currently studying
+towards an Honours BSc IT (Software Engineering) at Eduvos Midrand. He also runs a
+small business offering website creation and social media management services to
+small businesses in Pretoria.
+
+### Project: SellersPoint
+SellersPoint is an online marketplace built to help South African craftsmen sell
+their handmade goods directly to customers. It was built using React on the
+frontend, PHP on the backend, and MySQL as the database. Key features include
+seller profile pages, product listings, and a shopping cart / checkout flow.
+The project demonstrates full-stack web development, relational database design,
+and building e-commerce-style user flows.
+
+### Project: EduLite
+EduLite is a low-bandwidth e-learning platform designed for rural learners with
+limited or unreliable internet access. The platform focuses on lightweight pages,
+minimal data usage, and offline-friendly content delivery so that students in
+low-connectivity areas can still access learning material. This project
+demonstrates an understanding of performance optimization and designing for
+real-world constraints rather than assuming ideal conditions.
+
+### Project: FitLife Gym Management System
+FitLife is a gym management system built as part of a university web development
+module. Assani produced the full system design, including Use Case diagrams,
+CRC cards, a Context Diagram, a Data Flow Diagram (DFD), an Entity Relationship
+Diagram (ERD), a Class Diagram, and wireframes, all modeled in PlantUML. The
+implementation was built using HTML, CSS, JavaScript, and MySQL.
+
+### Project: RAG Portfolio Chatbot
+This project. A Retrieval-Augmented Generation (RAG) chatbot built with the
+OpenAI API that answers questions about Assani's background and projects. It
+works by splitting this knowledge base into chunks, generating embeddings for
+each chunk using OpenAI's embedding model, and storing those embeddings in
+memory. When a user asks a question, the question is embedded and compared
+against the stored chunk embeddings using cosine similarity to retrieve the most
+relevant context. That context is then passed to a chat completion call so the
+model answers using grounded, relevant information instead of guessing. This
+demonstrates practical experience with LLM application development, embeddings,
+and RAG pipeline design.
+
+### Skills
+Assani has hands-on experience with Python, JavaScript, HTML/CSS, React, PHP,
+MySQL, Java/OOP, Git, and Spring Boot security configuration (CSRF, session
+management, authentication). He is now building experience with the OpenAI API,
+embeddings, and retrieval-augmented generation as he moves toward AI-focused
+software engineering roles.
+
+### Career goal
+Assani is currently seeking a junior/graduate Software Engineer role, ideally
+one involving AI/LLM application development, cloud infrastructure, and modern
+full-stack development practices.
