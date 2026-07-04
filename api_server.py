@@ -60,4 +60,4 @@ if __name__ == "__main__":
         print("ERROR: Set the OPENAI_API_KEY environment variable first.")
     else:
         print("Starting API server on http://localhost:5000 ...")
-        app.run(port=5000, debug=True)
+        app.run(port=5001, debug=True)
