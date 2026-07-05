@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 
-const API_URL = 'http://localhost:5001/api/chat'
-
+// const API_URL = 'http://localhost:5001/api/chat'
+const API_URL = 'https://assani-rag-api.azurewebsites.net/api/chat'
 const SUGGESTIONS = [
   'What is SellersPoint?',
   'Tell me about EduLite',
